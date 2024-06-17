@@ -10,3 +10,8 @@ Table of Contents:
       - [Prototype Pattern](https://github.com/Devandra21/DesignPatterns/blob/main/CreationalPatterns/PrototypePattern.cpp)
   -  [Behavioral Patterns](https://github.com/Devandra21/DesignPatterns/tree/main/BehavioralPatterns)
       - [Chain of Responsibility Pattern](https://github.com/Devandra21/DesignPatterns/blob/main/BehavioralPatterns/ChainOfResponsibilityPattern.cpp)
+      - [Command Pattern](https://github.com/Devandra21/DesignPatterns/blob/main/BehavioralPatterns/CommandPattern.cpp)
+      - [Interpreter Pattern](https://github.com/Devandra21/DesignPatterns/blob/main/BehavioralPatterns/InterpreterPattern.cpp)
+      - [Iterator Pattern](https://github.com/Devandra21/DesignPatterns/blob/main/BehavioralPatterns/IteratorPattern.cpp)
+      - [Mediator Pattern](https://github.com/Devandra21/DesignPatterns/blob/main/BehavioralPatterns/MediatorPattern.cpp)
+      - [Memento Pattern](https://github.com/Devandra21/DesignPatterns/blob/main/BehavioralPatterns/MementoPattern.cpp)
