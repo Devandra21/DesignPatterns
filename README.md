@@ -27,3 +27,4 @@ Table of Contents:
       - [Decorator Pattern](https://github.com/Devandra21/DesignPatterns/blob/main/StructuralPatterns/DecoratorPattern.cpp)
       - [Facade Pattern](https://github.com/Devandra21/DesignPatterns/blob/main/StructuralPatterns/FacadePattern.cpp)
       - [Flyweight Pattern](https://github.com/Devandra21/DesignPatterns/blob/main/StructuralPatterns/FlyweightPattern.cpp)
+      - [Proxy Pattern](https://github.com/Devandra21/DesignPatterns/blob/main/StructuralPatterns/ProxyPattern.cpp)
